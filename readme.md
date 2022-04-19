@@ -4,7 +4,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/_x.xnat/)
 
-![Nat GitHub stats](https://github-readme-stats.vercel.app/api?username=polan-nat&show_icons=true&theme=dracula)
+![Nat GitHub stats](https://github-readme-stats.vercel.app/api?username=polan-nat&show_icons=true&theme=synthwave)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=polan-nat&layout=compact&theme=synthwave)](https://github.com/polan-nat/github-readme-stats?)
 
 ## Tecnologias usadas no dia a dia
 <div style="display: inline-block"><br/>
