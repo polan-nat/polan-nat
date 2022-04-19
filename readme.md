@@ -6,7 +6,7 @@
 
 ![Nat GitHub stats](https://github-readme-stats.vercel.app/api?username=polan-nat&show_icons=true&theme=dracula)
 
-## Tecnologias recorrentes
+## Tecnologias usadas no dia a dia
 <div style="display: inline-block"><br/>
     <img align="center" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
     <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
